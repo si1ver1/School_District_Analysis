@@ -24,7 +24,7 @@ The goal of this project was to merge data from two difference excel sheets and 
 
 4. Replacing the scores had these effects listed below.
     -   Math and reading scores by grade: are not really changed other than all 9th grade scores will display as nan in the new data:
-[<img src="https://raw.githubusercontent.com/si1ver1/School_District_Analysis/master/analysis/nan_scores.jpg" width="300"/>](https://raw.githubusercontent.com/si1ver1/School_District_Analysis/master/analysis/nan_scores.jpg)
+    - [<img src="https://raw.githubusercontent.com/si1ver1/School_District_Analysis/master/analysis/nan_scores.jpg" width="300"/>](https://raw.githubusercontent.com/si1ver1/School_District_Analysis/master/analysis/nan_scores.jpg)
     -   Scores by school spending went down for all % passing under the $630-644 range.
 		- Original Results:	![scores_by_spending_before](https://raw.githubusercontent.com/si1ver1/School_District_Analysis/master/analysis/scores_by_spending_before.jpg)
 	    - Cleaned Results:![scores_by_spending_after](https://raw.githubusercontent.com/si1ver1/School_District_Analysis/master/analysis/scores_by_spending_after.jpg)
